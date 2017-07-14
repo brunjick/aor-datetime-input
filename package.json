@@ -13,7 +13,7 @@
     "url": "https://github.com/iamsimakov/aor-datetime-input/issues"
   },
   "dependencies": {
-    "prop-types": "~15.5.10",
+    "prop-types": "~15.5.10"
   },
   "peerDependencies": {
     "admin-on-rest": "^1.1.2"
